@@ -30,11 +30,11 @@
 
 ---
 
-## 🎞️ 보정 동영상 데모 (Demo)
+## 🎞️ 보정 동영상 미리보기
 
-다음은 보정 시간 동영상 결과 데모입니다:
+다음은 보정 시간 동영상 결과 스크린 샷입니다:
 
-**`undistorted_video.mp4`**
+**<img src="./screen_shot.png" width="200px" height="150px">**
 
 ---
 
